@@ -9,10 +9,10 @@
             <class name="BookingTest"/>
         </classes>
     </test>
-    <!--<test name="FirefoxTest">-->
-        <!--<parameter name="browser" value="firefox"/>-->
-        <!--<classes>-->
-            <!--<class name="BookingTest"/>-->
-        <!--</classes>-->
-    <!--</test>-->
+    <test name="FirefoxTest">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="BookingTest"/>
+        </classes>
+    </test>
 </suite>
